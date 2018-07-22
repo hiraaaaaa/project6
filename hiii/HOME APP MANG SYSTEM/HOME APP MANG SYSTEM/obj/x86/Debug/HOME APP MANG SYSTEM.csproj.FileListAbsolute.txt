@@ -1,0 +1,24 @@
+C:\Users\FAISAL\Documents\Visual Studio 2010\Projects\HOME APP MANG SYSTEM\HOME APP MANG SYSTEM\obj\x86\Debug\HOME_APP_MANG_SYSTEM.Form1.resources
+C:\Users\FAISAL\Documents\Visual Studio 2010\Projects\HOME APP MANG SYSTEM\HOME APP MANG SYSTEM\obj\x86\Debug\HOME_APP_MANG_SYSTEM.Form2.resources
+C:\Users\FAISAL\Documents\Visual Studio 2010\Projects\HOME APP MANG SYSTEM\HOME APP MANG SYSTEM\obj\x86\Debug\HOME_APP_MANG_SYSTEM.Properties.Resources.resources
+C:\Users\FAISAL\Documents\Visual Studio 2010\Projects\HOME APP MANG SYSTEM\HOME APP MANG SYSTEM\obj\x86\Debug\HOME APP MANG SYSTEM.csproj.GenerateResource.Cache
+C:\Users\FAISAL\Documents\Visual Studio 2010\Projects\HOME APP MANG SYSTEM\HOME APP MANG SYSTEM\obj\x86\Debug\HOME_APP_MANG_SYSTEM.Form3.resources
+C:\Users\FAISAL\Documents\Visual Studio 2010\Projects\HOME APP MANG SYSTEM\HOME APP MANG SYSTEM\bin\Debug\HOME APP MANG SYSTEMS.exe
+C:\Users\FAISAL\Documents\Visual Studio 2010\Projects\HOME APP MANG SYSTEM\HOME APP MANG SYSTEM\bin\Debug\HOME APP MANG SYSTEMS.pdb
+C:\Users\FAISAL\Documents\Visual Studio 2010\Projects\HOME APP MANG SYSTEM\HOME APP MANG SYSTEM\obj\x86\Debug\HOME APP MANG SYSTEMS.exe
+C:\Users\FAISAL\Documents\Visual Studio 2010\Projects\HOME APP MANG SYSTEM\HOME APP MANG SYSTEM\obj\x86\Debug\HOME APP MANG SYSTEMS.pdb
+C:\Users\FAISAL\Documents\Visual Studio 2010\Projects\HOME APP MANG SYSTEM\HOME APP MANG SYSTEM\bin\Debug\HOME APP MANG SYSTEMS.exe.config
+C:\Users\FAISAL\Documents\Visual Studio 2010\Projects\HOME APP MANG SYSTEM\HOME APP MANG SYSTEM\obj\x86\Debug\HOME_APP_MANG_SYSTEM.Form5.resources
+C:\Users\FAISAL\Documents\Visual Studio 2010\Projects\HOME APP MANG SYSTEM\HOME APP MANG SYSTEM\obj\x86\Debug\HOME_APP_MANG_SYSTEM.Form6.resources
+C:\Users\FAISAL\Documents\Visual Studio 2010\Projects\HOME APP MANG SYSTEM\HOME APP MANG SYSTEM\obj\x86\Debug\HOME_APP_MANG_SYSTEM.Form7.resources
+C:\Users\FAISAL\Documents\Visual Studio 2010\Projects\HOME APP MANG SYSTEM\HOME APP MANG SYSTEM\obj\x86\Debug\HOME_APP_MANG_SYSTEM.Form8.resources
+C:\Users\FAISAL\Documents\Visual Studio 2010\Projects\HOME APP MANG SYSTEM\HOME APP MANG SYSTEM\obj\x86\Debug\HOME_APP_MANG_SYSTEM.Form9.resources
+C:\Users\FAISAL\Documents\Visual Studio 2010\Projects\HOME APP MANG SYSTEM\HOME APP MANG SYSTEM\obj\x86\Debug\HOME_APP_MANG_SYSTEM.Form10.resources
+C:\Users\FAISAL\Documents\Visual Studio 2010\Projects\HOME APP MANG SYSTEM\HOME APP MANG SYSTEM\obj\x86\Debug\HOME_APP_MANG_SYSTEM.Form12.resources
+C:\Users\FAISAL\Documents\Visual Studio 2010\Projects\HOME APP MANG SYSTEM\HOME APP MANG SYSTEM\obj\x86\Debug\HOME_APP_MANG_SYSTEM.Form11.resources
+C:\Users\FAISAL\Documents\Visual Studio 2010\Projects\HOME APP MANG SYSTEM\HOME APP MANG SYSTEM\obj\x86\Debug\HOME_APP_MANG_SYSTEM.Form4.resources
+C:\Users\FAISAL\Documents\Visual Studio 2010\Projects\HOME APP MANG SYSTEM\HOME APP MANG SYSTEM\obj\x86\Debug\HOME_APP_MANG_SYSTEM.Form13.resources
+C:\Users\FAISAL\Documents\Visual Studio 2010\Projects\HOME APP MANG SYSTEM\HOME APP MANG SYSTEM\obj\x86\Debug\HOME_APP_MANG_SYSTEM.Form14.resources
+C:\Users\FAISAL\Documents\Visual Studio 2010\Projects\HOME APP MANG SYSTEM\HOME APP MANG SYSTEM\obj\x86\Debug\HOME_APP_MANG_SYSTEM.ADMIN.resources
+C:\Users\FAISAL\Documents\Visual Studio 2010\Projects\HOME APP MANG SYSTEM\HOME APP MANG SYSTEM\obj\x86\Debug\HOME_APP_MANG_SYSTEM.SIGNUP.resources
+C:\Users\FAISAL\Documents\Visual Studio 2010\Projects\HOME APP MANG SYSTEM\HOME APP MANG SYSTEM\obj\x86\Debug\HOME APP MANG SYSTEM.csprojResolveAssemblyReference.cache
